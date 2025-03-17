@@ -9,7 +9,7 @@ This project explores different implementations of RAG using **Kaggle datasets**
 
 ## **Project Structure**
 
-📦 RAG_Project
+```📦 RAG_Project
 │-- 📂 RAG
 │   ├── 📂 GRAPH RAG
 │   │   ├── Code_for_Knowledge_Graph_RAG_Using_Kaggle.ipynb
@@ -20,7 +20,7 @@ This project explores different implementations of RAG using **Kaggle datasets**
 │   │   ├── Updated_Code_for_RAG_.ipynb
 │   │   ├── Update_Code_for_RAG_Using_Kaggle.ipynb
 │   │   ├── update_code_for_rag_using_kaggle.py
-
+```
 
 ### **1. Graph-Based RAG**
 Located in `RAG/GRAPH RAG/`, this implementation enhances RAG using **Knowledge Graphs**, improving retrieval quality.
